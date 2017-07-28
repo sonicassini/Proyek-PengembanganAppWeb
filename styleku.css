@@ -1,0 +1,14 @@
+	.formisian {
+		width: 350px;
+		border: 1px solid silver;
+		background: #ssoonn;
+		padding: 5px;
+		margin: 40px auto;
+		box-shadow: 10px 10px 10px blue;
+		border-radius: 10px;
+	}
+	.formisian input {
+		border-radius: 5px;
+		height: 30px;
+		font-weight: bold;
+	}

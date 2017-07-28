@@ -1,0 +1,23 @@
+.genap{
+	background : lightgreen;
+}
+.ganjil{
+	background : lightblue;
+}
+.genap:hover{
+	background : fuchsia;
+	color : white;
+	cursor : pointer;
+}
+.ganjil:hover{
+	background : fuchsia;
+	color : white;
+	cursor : pointer;
+}
+.grip{
+	width : 100%;
+	border-collapse : collapse;
+}
+.grip th{
+	background : yellow;
+}
